@@ -28,14 +28,6 @@ All data management and statistical analyses were conducted on secure servers at
 
 ---
 
-## Software Overview
-
-Analyses were performed using:
-
-- **R** (version 4.3.1)  
-  - Packages: `survival`, `data.table`, `dplyr`, `ggplot2`, `gtsummary`, `epitools`, `mice`, and others  
-
----
 
 ## Authors
 
