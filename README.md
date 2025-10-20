@@ -33,12 +33,12 @@ All data management and statistical analyses were conducted on secure servers at
 
 - **Mark P. Khurana** – University of Copenhagen  
 - **Mathilde Marie Brünnich Sloth** – University of Copenhagen  
-- **Neil Scheidwasser** – Imperial College London  
+- **Neil Scheidwasser** – University of Copenhagen  
 - **Jacob Curran-Sebastian** – University of Copenhagen  
 - **Christian Morgenstern** – Imperial College London  
-- **Nicolas Banholzer** – ETH Zürich  
+- **Nicolas Banholzer** – ETH Zürich and University of Copenhagen
 - **David Thein** – Copenhagen University Hospital  
-- **Laust H. Mortensen** – University of Copenhagen  
+- **Laust H. Mortensen** – University of Copenhagen 
 - **Morten Rasmussen** – Statens Serum Institut  
 - **Pikka Jokelainen** – Statens Serum Institut  
 - **Frederik Trier Møller** – Statens Serum Institut  
@@ -47,7 +47,7 @@ All data management and statistical analyses were conducted on secure servers at
 - **Ewan Cameron** – Curtin University  
 - **David A. Duchêne** – University of Copenhagen  
 - **Alexandros Katsiferis** – University of Copenhagen  
-- **Samir Bhatt** – Imperial College London  
+- **Samir Bhatt** – University of Copenhagen  and Imperial College London  
 
 ---
 
